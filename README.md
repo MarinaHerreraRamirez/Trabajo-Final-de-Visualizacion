@@ -1,7 +1,7 @@
 # Trabajo Final de Visualización e Inteligencia de Negocio
 
 **Máster Universitario en Análisis de Negocios · Universidad Nebrija**
-**Equipo:** [Sergio González Rodríguez] · [Marina Herrera Ramírez] · [Yuridia Navarro Díaz] · [Esteban Giraldo Valencia]
+**Equipo:** Sergio González Rodríguez · Marina Herrera Ramírez · Yuridia Navarro Díaz · Esteban Giraldo Valencia
 
 ## Pregunta de negocio
 
