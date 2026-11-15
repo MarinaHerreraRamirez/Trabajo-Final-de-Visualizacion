@@ -1,0 +1,74 @@
+Archivo;Nombre_en_archivo;Pais_estandar;Mercado_EGATUR;Tipo
+EGATUR_CCAA (①);Total;Total;Total;Agregado
+EGATUR_CCAA (①);Reino Unido;Reino Unido;Reino Unido;Mercado
+EGATUR_CCAA (①);Países Nórdicos;Países Nórdicos;Países Nórdicos;Mercado
+EGATUR_CCAA (①);Alemania;Alemania;Alemania;Mercado
+EGATUR_CCAA (①);Francia;Francia;Francia;Mercado
+EGATUR_CCAA (①);Italia;Italia;Italia;Mercado
+EGATUR_pais (②);Total;Total;Total;Agregado
+EGATUR_pais (②);Reino Unido;Reino Unido;Reino Unido;Mercado
+EGATUR_pais (②);Países Nórdicos;Países Nórdicos;Países Nórdicos;Mercado
+EGATUR_pais (②);Resto del Mundo;Resto del Mundo;Resto del Mundo;Mercado
+EGATUR_pais (②);Alemania;Alemania;Alemania;Mercado
+EGATUR_pais (②);Francia;Francia;Francia;Mercado
+EGATUR_pais (②);Italia;Italia;Italia;Mercado
+EOH_provincias (④⑤);Total;Total;(no aplica);Agregado
+EOH_provincias (④⑤);Residentes en España;Residentes en España;Residentes en España;Residentes
+EOH_provincias (④⑤);No residentes en España;No residentes en España;(no aplica);Agregado
+EOH_provincias (④⑤);Unión Europea27 (sin España);Unión Europea27 (sin España);(no aplica);Agregado
+EOH_provincias (④⑤);Alemania;Alemania;Alemania;País o grupo
+EOH_provincias (④⑤);Austria;Austria;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Bélgica;Bélgica;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Dinamarca;Dinamarca;Países Nórdicos;País o grupo
+EOH_provincias (④⑤);Finlandia;Finlandia;Países Nórdicos;País o grupo
+EOH_provincias (④⑤);Francia;Francia;Francia;País o grupo
+EOH_provincias (④⑤);Grecia;Grecia;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Irlanda;Irlanda;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Italia;Italia;Italia;País o grupo
+EOH_provincias (④⑤);Luxemburgo;Luxemburgo;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Países Bajos;Países Bajos;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Polonia;Polonia;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Portugal;Portugal;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);República Checa;República Checa;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Suecia;Suecia;Países Nórdicos;País o grupo
+EOH_provincias (④⑤);Noruega;Noruega;Países Nórdicos;País o grupo
+EOH_provincias (④⑤);Reino Unido;Reino Unido;Reino Unido;País o grupo
+EOH_provincias (④⑤);Suiza;Suiza;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Resto de Europa sin U.E.;Resto de Europa sin U.E.;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Japón;Japón;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);República China;República China;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Estados Unidos;Estados Unidos;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Resto de América;Resto de América;Resto del Mundo;País o grupo
+EOH_provincias (④⑤);Países africanos;África;Resto del Mundo;País o grupo
+EOH_paises (⑦);Total;Total;(no aplica);Agregado
+EOH_paises (⑦);Residentes en España;Residentes en España;Residentes en España;Residentes
+EOH_paises (⑦);Residentes en el Extranjero;Residentes en el Extranjero;(no aplica);Agregado
+EOH_paises (⑦);Alemania;Alemania;Alemania;País o grupo
+EOH_paises (⑦);Austria;Austria;Resto del Mundo;País o grupo
+EOH_paises (⑦);Bélgica;Bélgica;Resto del Mundo;País o grupo
+EOH_paises (⑦);Dinamarca;Dinamarca;Países Nórdicos;País o grupo
+EOH_paises (⑦);Finlandia;Finlandia;Países Nórdicos;País o grupo
+EOH_paises (⑦);Francia;Francia;Francia;País o grupo
+EOH_paises (⑦);Grecia;Grecia;Resto del Mundo;País o grupo
+EOH_paises (⑦);Irlanda;Irlanda;Resto del Mundo;País o grupo
+EOH_paises (⑦);Italia;Italia;Italia;País o grupo
+EOH_paises (⑦);Luxemburgo;Luxemburgo;Resto del Mundo;País o grupo
+EOH_paises (⑦);Países Bajos;Países Bajos;Resto del Mundo;País o grupo
+EOH_paises (⑦);Polonia;Polonia;Resto del Mundo;País o grupo
+EOH_paises (⑦);Portugal;Portugal;Resto del Mundo;País o grupo
+EOH_paises (⑦);República Checa;República Checa;Resto del Mundo;País o grupo
+EOH_paises (⑦);Suecia;Suecia;Países Nórdicos;País o grupo
+EOH_paises (⑦);Resto de la U.E.;Resto de la U.E.;Resto del Mundo;País o grupo
+EOH_paises (⑦);Noruega;Noruega;Países Nórdicos;País o grupo
+EOH_paises (⑦);Reino Unido;Reino Unido;Reino Unido;País o grupo
+EOH_paises (⑦);Rusia;Rusia;Resto del Mundo;País o grupo
+EOH_paises (⑦);Suiza;Suiza;Resto del Mundo;País o grupo
+EOH_paises (⑦);Otros Países Europeos;Otros Países Europeos;Resto del Mundo;País o grupo
+EOH_paises (⑦);África;África;Resto del Mundo;País o grupo
+EOH_paises (⑦);UE28 sin España;UE28 sin España;(no aplica);Agregado
+EOH_paises (⑦);UE27_2020 sin España;UE27_2020 sin España;(no aplica);Agregado
+EOH_paises (⑦);Resto del Mundo;Resto del Mundo;Resto del Mundo;País o grupo
+EOH_paises (⑦);América (sin EEUU);América (sin EEUU);Resto del Mundo;País o grupo
+EOH_paises (⑦);Estados Unidos de América;Estados Unidos;Resto del Mundo;País o grupo
+EOH_paises (⑦);Japón;Japón;Resto del Mundo;País o grupo
+EOH_paises (⑦);Asia (sin Japón);Asia (sin Japón);Resto del Mundo;País o grupo

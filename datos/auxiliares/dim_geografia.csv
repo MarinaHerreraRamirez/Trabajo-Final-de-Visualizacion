@@ -1,0 +1,53 @@
+Provincia;Cod_CCAA;CCAA;CCAA_corto;Region_EGATUR
+Almería;01;01 Andalucía;Andalucía;01 Andalucía
+Cádiz;01;01 Andalucía;Andalucía;01 Andalucía
+Córdoba;01;01 Andalucía;Andalucía;01 Andalucía
+Granada;01;01 Andalucía;Andalucía;01 Andalucía
+Huelva;01;01 Andalucía;Andalucía;01 Andalucía
+Jaén;01;01 Andalucía;Andalucía;01 Andalucía
+Málaga;01;01 Andalucía;Andalucía;01 Andalucía
+Sevilla;01;01 Andalucía;Andalucía;01 Andalucía
+Huesca;02;02 Aragón;Aragón;Otras Comunidades Autónomas
+Teruel;02;02 Aragón;Aragón;Otras Comunidades Autónomas
+Zaragoza;02;02 Aragón;Aragón;Otras Comunidades Autónomas
+Asturias;03;03 Asturias, Principado de;Asturias;Otras Comunidades Autónomas
+Balears, Illes;04;04 Balears, Illes;Illes Balears;04 Balears, Illes
+Palmas, Las;05;05 Canarias;Canarias;05 Canarias
+Santa Cruz de Tenerife;05;05 Canarias;Canarias;05 Canarias
+Cantabria;06;06 Cantabria;Cantabria;Otras Comunidades Autónomas
+Ávila;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Burgos;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+León;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Palencia;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Salamanca;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Segovia;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Soria;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Valladolid;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Zamora;07;07 Castilla y León;Castilla y León;Otras Comunidades Autónomas
+Albacete;08;08 Castilla - La Mancha;Castilla-La Mancha;Otras Comunidades Autónomas
+Ciudad Real;08;08 Castilla - La Mancha;Castilla-La Mancha;Otras Comunidades Autónomas
+Cuenca;08;08 Castilla - La Mancha;Castilla-La Mancha;Otras Comunidades Autónomas
+Guadalajara;08;08 Castilla - La Mancha;Castilla-La Mancha;Otras Comunidades Autónomas
+Toledo;08;08 Castilla - La Mancha;Castilla-La Mancha;Otras Comunidades Autónomas
+Barcelona;09;09 Cataluña;Cataluña;09 Cataluña
+Girona;09;09 Cataluña;Cataluña;09 Cataluña
+Lleida;09;09 Cataluña;Cataluña;09 Cataluña
+Tarragona;09;09 Cataluña;Cataluña;09 Cataluña
+Alicante/Alacant;10;10 Comunitat Valenciana;C. Valenciana;10 Comunitat Valenciana
+Castellón/Castelló;10;10 Comunitat Valenciana;C. Valenciana;10 Comunitat Valenciana
+Valencia/València;10;10 Comunitat Valenciana;C. Valenciana;10 Comunitat Valenciana
+Badajoz;11;11 Extremadura;Extremadura;Otras Comunidades Autónomas
+Cáceres;11;11 Extremadura;Extremadura;Otras Comunidades Autónomas
+Coruña, A;12;12 Galicia;Galicia;Otras Comunidades Autónomas
+Lugo;12;12 Galicia;Galicia;Otras Comunidades Autónomas
+Ourense;12;12 Galicia;Galicia;Otras Comunidades Autónomas
+Pontevedra;12;12 Galicia;Galicia;Otras Comunidades Autónomas
+Madrid;13;13 Madrid, Comunidad de;Madrid;13 Madrid, Comunidad de
+Murcia;14;14 Murcia, Región de;Murcia;Otras Comunidades Autónomas
+Navarra;15;15 Navarra, Comunidad Foral de;Navarra;Otras Comunidades Autónomas
+Araba/Álava;16;16 País Vasco;País Vasco;Otras Comunidades Autónomas
+Bizkaia;16;16 País Vasco;País Vasco;Otras Comunidades Autónomas
+Gipuzkoa;16;16 País Vasco;País Vasco;Otras Comunidades Autónomas
+Rioja, La;17;17 Rioja, La;La Rioja;Otras Comunidades Autónomas
+Ceuta;18;18 Ceuta;Ceuta;Otras Comunidades Autónomas
+Melilla;19;19 Melilla;Melilla;Otras Comunidades Autónomas
